@@ -1,0 +1,5 @@
+E:\pztx1992\Study.WebForm\bin\Study.WebForm.dll
+E:\pztx1992\Study.WebForm\bin\Study.WebForm.pdb
+E:\pztx1992\Study.WebForm\obj\Debug\ResolveAssemblyReference.cache
+E:\pztx1992\Study.WebForm\obj\Debug\Study.WebForm.dll
+E:\pztx1992\Study.WebForm\obj\Debug\Study.WebForm.pdb

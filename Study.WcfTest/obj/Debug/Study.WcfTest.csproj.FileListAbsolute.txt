@@ -1,0 +1,5 @@
+E:\pztx1992\Study.WcfTest\bin\Study.WcfTest.dll
+E:\pztx1992\Study.WcfTest\bin\Study.WcfTest.pdb
+E:\pztx1992\Study.WcfTest\obj\Debug\ResolveAssemblyReference.cache
+E:\pztx1992\Study.WcfTest\obj\Debug\Study.WcfTest.dll
+E:\pztx1992\Study.WcfTest\obj\Debug\Study.WcfTest.pdb

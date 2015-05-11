@@ -1,0 +1,5 @@
+E:\pztx1992\Study.Common\Study.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\pztx1992\Study.Common\Study.Common\bin\Debug\Study.Common.dll
+E:\pztx1992\Study.Common\Study.Common\bin\Debug\Study.Common.pdb
+E:\pztx1992\Study.Common\Study.Common\obj\Debug\Study.Common.dll
+E:\pztx1992\Study.Common\Study.Common\obj\Debug\Study.Common.pdb
