@@ -3,3 +3,4 @@ E:\pztx1992\Study.Dos\bin\Debug\Study.Dos.pdb
 E:\pztx1992\Study.Dos\obj\x86\Debug\ResolveAssemblyReference.cache
 E:\pztx1992\Study.Dos\obj\x86\Debug\Study.Dos.exe
 E:\pztx1992\Study.Dos\obj\x86\Debug\Study.Dos.pdb
+E:\pztx1992\Study.Dos\bin\Debug\Study.Dos.exe.config
